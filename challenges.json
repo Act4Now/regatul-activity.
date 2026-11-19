@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "d0",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă într-o grădină fermecată."
+  },
+  {
+    "id": "d1",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă la balul regal."
+  },
+  {
+    "id": "d2",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă sub un curcubeu."
+  },
+  {
+    "id": "d3",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă într-un castel de cristal."
+  },
+  {
+    "id": "d4",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă într-o pădure magică."
+  },
+  {
+    "id": "d5",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă la o petrecere."
+  },
+  {
+    "id": "d6",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă într-un regat de gheață."
+  },
+  {
+    "id": "d7",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă pe un nor pufos."
+  },
+  {
+    "id": "d8",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă lângă o fântână fermecată."
+  },
+  {
+    "id": "d9",
+    "cat": "Desen",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Desenează prințesă la lumina lunii."
+  },
+  {
+    "id": "d10",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână într-o grădină fermecată."
+  },
+  {
+    "id": "d11",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână la balul regal."
+  },
+  {
+    "id": "d12",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână sub un curcubeu."
+  },
+  {
+    "id": "d13",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână într-un castel de cristal."
+  },
+  {
+    "id": "d14",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână într-o pădure magică."
+  },
+  {
+    "id": "d15",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână la o petrecere."
+  },
+  {
+    "id": "d16",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână într-un regat de gheață."
+  },
+  {
+    "id": "d17",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână pe un nor pufos."
+  },
+  {
+    "id": "d18",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână lângă o fântână fermecată."
+  },
+  {
+    "id": "d19",
+    "cat": "Desen",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Desenează zână la lumina lunii."
+  },
+  {
+    "id": "d20",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn într-o grădină fermecată."
+  },
+  {
+    "id": "d21",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn la balul regal."
+  },
+  {
+    "id": "d22",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn sub un curcubeu."
+  },
+  {
+    "id": "d23",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn într-un castel de cristal."
+  },
+  {
+    "id": "d24",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn într-o pădure magică."
+  },
+  {
+    "id": "d25",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn la o petrecere."
+  },
+  {
+    "id": "d26",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn într-un regat de gheață."
+  },
+  {
+    "id": "d27",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn pe un nor pufos."
+  },
+  {
+    "id": "d28",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn lângă o fântână fermecată."
+  },
+  {
+    "id": "d29",
+    "cat": "Desen",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Desenează unicorn la lumina lunii."
+  },
+  {
+    "id": "d30",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos într-o grădină fermecată."
+  },
+  {
+    "id": "d31",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos la balul regal."
+  },
+  {
+    "id": "d32",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos sub un curcubeu."
+  },
+  {
+    "id": "d33",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos într-un castel de cristal."
+  },
+  {
+    "id": "d34",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos într-o pădure magică."
+  },
+  {
+    "id": "d35",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos la o petrecere."
+  },
+  {
+    "id": "d36",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos într-un regat de gheață."
+  },
+  {
+    "id": "d37",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos pe un nor pufos."
+  },
+  {
+    "id": "d38",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos lângă o fântână fermecată."
+  },
+  {
+    "id": "d39",
+    "cat": "Desen",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Desenează dragon prietenos la lumina lunii."
+  },
+  {
+    "id": "d40",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală într-o grădină fermecată."
+  },
+  {
+    "id": "d41",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală la balul regal."
+  },
+  {
+    "id": "d42",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală sub un curcubeu."
+  },
+  {
+    "id": "d43",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală într-un castel de cristal."
+  },
+  {
+    "id": "d44",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală într-o pădure magică."
+  },
+  {
+    "id": "d45",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală la o petrecere."
+  },
+  {
+    "id": "d46",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală într-un regat de gheață."
+  },
+  {
+    "id": "d47",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală pe un nor pufos."
+  },
+  {
+    "id": "d48",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală lângă o fântână fermecată."
+  },
+  {
+    "id": "d49",
+    "cat": "Desen",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Desenează pisică regală la lumina lunii."
+  },
+  {
+    "id": "d50",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat într-o grădină fermecată."
+  },
+  {
+    "id": "d51",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat la balul regal."
+  },
+  {
+    "id": "d52",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat sub un curcubeu."
+  },
+  {
+    "id": "d53",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat într-un castel de cristal."
+  },
+  {
+    "id": "d54",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat într-o pădure magică."
+  },
+  {
+    "id": "d55",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat la o petrecere."
+  },
+  {
+    "id": "d56",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat într-un regat de gheață."
+  },
+  {
+    "id": "d57",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat pe un nor pufos."
+  },
+  {
+    "id": "d58",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat lângă o fântână fermecată."
+  },
+  {
+    "id": "d59",
+    "cat": "Desen",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Desenează cal fermecat la lumina lunii."
+  },
+  {
+    "id": "d60",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț într-o grădină fermecată."
+  },
+  {
+    "id": "d61",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț la balul regal."
+  },
+  {
+    "id": "d62",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț sub un curcubeu."
+  },
+  {
+    "id": "d63",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț într-un castel de cristal."
+  },
+  {
+    "id": "d64",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț într-o pădure magică."
+  },
+  {
+    "id": "d65",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț la o petrecere."
+  },
+  {
+    "id": "d66",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț într-un regat de gheață."
+  },
+  {
+    "id": "d67",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț pe un nor pufos."
+  },
+  {
+    "id": "d68",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț lângă o fântână fermecată."
+  },
+  {
+    "id": "d69",
+    "cat": "Desen",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Desenează broscuță prinț la lumina lunii."
+  },
+  {
+    "id": "d70",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă într-o grădină fermecată."
+  },
+  {
+    "id": "d71",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă la balul regal."
+  },
+  {
+    "id": "d72",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă sub un curcubeu."
+  },
+  {
+    "id": "d73",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă într-un castel de cristal."
+  },
+  {
+    "id": "d74",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă într-o pădure magică."
+  },
+  {
+    "id": "d75",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă la o petrecere."
+  },
+  {
+    "id": "d76",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă într-un regat de gheață."
+  },
+  {
+    "id": "d77",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă pe un nor pufos."
+  },
+  {
+    "id": "d78",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă lângă o fântână fermecată."
+  },
+  {
+    "id": "d79",
+    "cat": "Desen",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Desenează lebădă la lumina lunii."
+  },
+  {
+    "id": "d80",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic într-o grădină fermecată."
+  },
+  {
+    "id": "d81",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic la balul regal."
+  },
+  {
+    "id": "d82",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic sub un curcubeu."
+  },
+  {
+    "id": "d83",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic într-un castel de cristal."
+  },
+  {
+    "id": "d84",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic într-o pădure magică."
+  },
+  {
+    "id": "d85",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic la o petrecere."
+  },
+  {
+    "id": "d86",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic într-un regat de gheață."
+  },
+  {
+    "id": "d87",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic pe un nor pufos."
+  },
+  {
+    "id": "d88",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic lângă o fântână fermecată."
+  },
+  {
+    "id": "d89",
+    "cat": "Desen",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Desenează fluture magic la lumina lunii."
+  },
+  {
+    "id": "d90",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș într-o grădină fermecată."
+  },
+  {
+    "id": "d91",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș la balul regal."
+  },
+  {
+    "id": "d92",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș sub un curcubeu."
+  },
+  {
+    "id": "d93",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș într-un castel de cristal."
+  },
+  {
+    "id": "d94",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș într-o pădure magică."
+  },
+  {
+    "id": "d95",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș la o petrecere."
+  },
+  {
+    "id": "d96",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș într-un regat de gheață."
+  },
+  {
+    "id": "d97",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș pe un nor pufos."
+  },
+  {
+    "id": "d98",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș lângă o fântână fermecată."
+  },
+  {
+    "id": "d99",
+    "cat": "Desen",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Desenează iepuraș la lumina lunii."
+  },
+  {
+    "id": "d100",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț într-o grădină fermecată."
+  },
+  {
+    "id": "d101",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț la balul regal."
+  },
+  {
+    "id": "d102",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț sub un curcubeu."
+  },
+  {
+    "id": "d103",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț într-un castel de cristal."
+  },
+  {
+    "id": "d104",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț într-o pădure magică."
+  },
+  {
+    "id": "d105",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț la o petrecere."
+  },
+  {
+    "id": "d106",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț într-un regat de gheață."
+  },
+  {
+    "id": "d107",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț pe un nor pufos."
+  },
+  {
+    "id": "d108",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț lângă o fântână fermecată."
+  },
+  {
+    "id": "d109",
+    "cat": "Desen",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Desenează ursuleț la lumina lunii."
+  },
+  {
+    "id": "d110",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă într-o grădină fermecată."
+  },
+  {
+    "id": "d111",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă la balul regal."
+  },
+  {
+    "id": "d112",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă sub un curcubeu."
+  },
+  {
+    "id": "d113",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă într-un castel de cristal."
+  },
+  {
+    "id": "d114",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă într-o pădure magică."
+  },
+  {
+    "id": "d115",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă la o petrecere."
+  },
+  {
+    "id": "d116",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă într-un regat de gheață."
+  },
+  {
+    "id": "d117",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă pe un nor pufos."
+  },
+  {
+    "id": "d118",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă lângă o fântână fermecată."
+  },
+  {
+    "id": "d119",
+    "cat": "Desen",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Desenează sirenă la lumina lunii."
+  },
+  {
+    "id": "d120",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare într-o grădină fermecată."
+  },
+  {
+    "id": "d121",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare la balul regal."
+  },
+  {
+    "id": "d122",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare sub un curcubeu."
+  },
+  {
+    "id": "d123",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare într-un castel de cristal."
+  },
+  {
+    "id": "d124",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare într-o pădure magică."
+  },
+  {
+    "id": "d125",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare la o petrecere."
+  },
+  {
+    "id": "d126",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare într-un regat de gheață."
+  },
+  {
+    "id": "d127",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare pe un nor pufos."
+  },
+  {
+    "id": "d128",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare lângă o fântână fermecată."
+  },
+  {
+    "id": "d129",
+    "cat": "Desen",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Desenează pasăre cântătoare la lumina lunii."
+  },
+  {
+    "id": "d130",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică într-o grădină fermecată."
+  },
+  {
+    "id": "d131",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică la balul regal."
+  },
+  {
+    "id": "d132",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică sub un curcubeu."
+  },
+  {
+    "id": "d133",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică într-un castel de cristal."
+  },
+  {
+    "id": "d134",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică într-o pădure magică."
+  },
+  {
+    "id": "d135",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică la o petrecere."
+  },
+  {
+    "id": "d136",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică într-un regat de gheață."
+  },
+  {
+    "id": "d137",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică pe un nor pufos."
+  },
+  {
+    "id": "d138",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică lângă o fântână fermecată."
+  },
+  {
+    "id": "d139",
+    "cat": "Desen",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Desenează floare magică la lumina lunii."
+  },
+  {
+    "id": "d140",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel într-o grădină fermecată."
+  },
+  {
+    "id": "d141",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel la balul regal."
+  },
+  {
+    "id": "d142",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel sub un curcubeu."
+  },
+  {
+    "id": "d143",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel într-un castel de cristal."
+  },
+  {
+    "id": "d144",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel într-o pădure magică."
+  },
+  {
+    "id": "d145",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel la o petrecere."
+  },
+  {
+    "id": "d146",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel într-un regat de gheață."
+  },
+  {
+    "id": "d147",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel pe un nor pufos."
+  },
+  {
+    "id": "d148",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel lângă o fântână fermecată."
+  },
+  {
+    "id": "d149",
+    "cat": "Desen",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Desenează castel la lumina lunii."
+  },
+  {
+    "id": "d150",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană într-o grădină fermecată."
+  },
+  {
+    "id": "d151",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană la balul regal."
+  },
+  {
+    "id": "d152",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană sub un curcubeu."
+  },
+  {
+    "id": "d153",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană într-un castel de cristal."
+  },
+  {
+    "id": "d154",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană într-o pădure magică."
+  },
+  {
+    "id": "d155",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană la o petrecere."
+  },
+  {
+    "id": "d156",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană într-un regat de gheață."
+  },
+  {
+    "id": "d157",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană pe un nor pufos."
+  },
+  {
+    "id": "d158",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană lângă o fântână fermecată."
+  },
+  {
+    "id": "d159",
+    "cat": "Desen",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Desenează coroană la lumina lunii."
+  },
+  {
+    "id": "d160",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică într-o grădină fermecată."
+  },
+  {
+    "id": "d161",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică la balul regal."
+  },
+  {
+    "id": "d162",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică sub un curcubeu."
+  },
+  {
+    "id": "d163",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică într-un castel de cristal."
+  },
+  {
+    "id": "d164",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică într-o pădure magică."
+  },
+  {
+    "id": "d165",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică la o petrecere."
+  },
+  {
+    "id": "d166",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică într-un regat de gheață."
+  },
+  {
+    "id": "d167",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică pe un nor pufos."
+  },
+  {
+    "id": "d168",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică lângă o fântână fermecată."
+  },
+  {
+    "id": "d169",
+    "cat": "Desen",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Desenează baghetă magică la lumina lunii."
+  },
+  {
+    "id": "d170",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel într-o grădină fermecată."
+  },
+  {
+    "id": "d171",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel la balul regal."
+  },
+  {
+    "id": "d172",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel sub un curcubeu."
+  },
+  {
+    "id": "d173",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel într-un castel de cristal."
+  },
+  {
+    "id": "d174",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel într-o pădure magică."
+  },
+  {
+    "id": "d175",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel la o petrecere."
+  },
+  {
+    "id": "d176",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel într-un regat de gheață."
+  },
+  {
+    "id": "d177",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel pe un nor pufos."
+  },
+  {
+    "id": "d178",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel lângă o fântână fermecată."
+  },
+  {
+    "id": "d179",
+    "cat": "Desen",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Desenează carusel la lumina lunii."
+  },
+  {
+    "id": "d180",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă într-o grădină fermecată."
+  },
+  {
+    "id": "d181",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă la balul regal."
+  },
+  {
+    "id": "d182",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă sub un curcubeu."
+  },
+  {
+    "id": "d183",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă într-un castel de cristal."
+  },
+  {
+    "id": "d184",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă într-o pădure magică."
+  },
+  {
+    "id": "d185",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă la o petrecere."
+  },
+  {
+    "id": "d186",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă într-un regat de gheață."
+  },
+  {
+    "id": "d187",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă pe un nor pufos."
+  },
+  {
+    "id": "d188",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă lângă o fântână fermecată."
+  },
+  {
+    "id": "d189",
+    "cat": "Desen",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Desenează caleașcă la lumina lunii."
+  },
+  {
+    "id": "d190",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant într-o grădină fermecată."
+  },
+  {
+    "id": "d191",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant la balul regal."
+  },
+  {
+    "id": "d192",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant sub un curcubeu."
+  },
+  {
+    "id": "d193",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant într-un castel de cristal."
+  },
+  {
+    "id": "d194",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant într-o pădure magică."
+  },
+  {
+    "id": "d195",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant la o petrecere."
+  },
+  {
+    "id": "d196",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant într-un regat de gheață."
+  },
+  {
+    "id": "d197",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant pe un nor pufos."
+  },
+  {
+    "id": "d198",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant lângă o fântână fermecată."
+  },
+  {
+    "id": "d199",
+    "cat": "Desen",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Desenează diamant la lumina lunii."
+  },
+  {
+    "id": "m0",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă dansează la bal."
+  },
+  {
+    "id": "m1",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă se trezește dimineața."
+  },
+  {
+    "id": "m2",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă zboară prin regat."
+  },
+  {
+    "id": "m3",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă caută o comoară."
+  },
+  {
+    "id": "m4",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă se pregătește de petrecere."
+  },
+  {
+    "id": "m5",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă se plimbă prin grădină."
+  },
+  {
+    "id": "m6",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă face magie."
+  },
+  {
+    "id": "m7",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă se ferește de ploaie."
+  },
+  {
+    "id": "m8",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă primește un cadou."
+  },
+  {
+    "id": "m9",
+    "cat": "Mimă",
+    "emoji": "👸",
+    "label": "prințesă",
+    "task": "Mimează cum prințesă merge la castel."
+  },
+  {
+    "id": "m10",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână dansează la bal."
+  },
+  {
+    "id": "m11",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână se trezește dimineața."
+  },
+  {
+    "id": "m12",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână zboară prin regat."
+  },
+  {
+    "id": "m13",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână caută o comoară."
+  },
+  {
+    "id": "m14",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână se pregătește de petrecere."
+  },
+  {
+    "id": "m15",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână se plimbă prin grădină."
+  },
+  {
+    "id": "m16",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână face magie."
+  },
+  {
+    "id": "m17",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână se ferește de ploaie."
+  },
+  {
+    "id": "m18",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână primește un cadou."
+  },
+  {
+    "id": "m19",
+    "cat": "Mimă",
+    "emoji": "🧚",
+    "label": "zână",
+    "task": "Mimează cum zână merge la castel."
+  },
+  {
+    "id": "m20",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn dansează la bal."
+  },
+  {
+    "id": "m21",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn se trezește dimineața."
+  },
+  {
+    "id": "m22",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn zboară prin regat."
+  },
+  {
+    "id": "m23",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn caută o comoară."
+  },
+  {
+    "id": "m24",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn se pregătește de petrecere."
+  },
+  {
+    "id": "m25",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn se plimbă prin grădină."
+  },
+  {
+    "id": "m26",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn face magie."
+  },
+  {
+    "id": "m27",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn se ferește de ploaie."
+  },
+  {
+    "id": "m28",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn primește un cadou."
+  },
+  {
+    "id": "m29",
+    "cat": "Mimă",
+    "emoji": "🦄",
+    "label": "unicorn",
+    "task": "Mimează cum unicorn merge la castel."
+  },
+  {
+    "id": "m30",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos dansează la bal."
+  },
+  {
+    "id": "m31",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos se trezește dimineața."
+  },
+  {
+    "id": "m32",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos zboară prin regat."
+  },
+  {
+    "id": "m33",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos caută o comoară."
+  },
+  {
+    "id": "m34",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos se pregătește de petrecere."
+  },
+  {
+    "id": "m35",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos se plimbă prin grădină."
+  },
+  {
+    "id": "m36",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos face magie."
+  },
+  {
+    "id": "m37",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos se ferește de ploaie."
+  },
+  {
+    "id": "m38",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos primește un cadou."
+  },
+  {
+    "id": "m39",
+    "cat": "Mimă",
+    "emoji": "🐉",
+    "label": "dragon prietenos",
+    "task": "Mimează cum dragon prietenos merge la castel."
+  },
+  {
+    "id": "m40",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală dansează la bal."
+  },
+  {
+    "id": "m41",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală se trezește dimineața."
+  },
+  {
+    "id": "m42",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală zboară prin regat."
+  },
+  {
+    "id": "m43",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală caută o comoară."
+  },
+  {
+    "id": "m44",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală se pregătește de petrecere."
+  },
+  {
+    "id": "m45",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală se plimbă prin grădină."
+  },
+  {
+    "id": "m46",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală face magie."
+  },
+  {
+    "id": "m47",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală se ferește de ploaie."
+  },
+  {
+    "id": "m48",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală primește un cadou."
+  },
+  {
+    "id": "m49",
+    "cat": "Mimă",
+    "emoji": "🐈",
+    "label": "pisică regală",
+    "task": "Mimează cum pisică regală merge la castel."
+  },
+  {
+    "id": "m50",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat dansează la bal."
+  },
+  {
+    "id": "m51",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat se trezește dimineața."
+  },
+  {
+    "id": "m52",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat zboară prin regat."
+  },
+  {
+    "id": "m53",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat caută o comoară."
+  },
+  {
+    "id": "m54",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat se pregătește de petrecere."
+  },
+  {
+    "id": "m55",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat se plimbă prin grădină."
+  },
+  {
+    "id": "m56",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat face magie."
+  },
+  {
+    "id": "m57",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat se ferește de ploaie."
+  },
+  {
+    "id": "m58",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat primește un cadou."
+  },
+  {
+    "id": "m59",
+    "cat": "Mimă",
+    "emoji": "🐴",
+    "label": "cal fermecat",
+    "task": "Mimează cum cal fermecat merge la castel."
+  },
+  {
+    "id": "m60",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț dansează la bal."
+  },
+  {
+    "id": "m61",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț se trezește dimineața."
+  },
+  {
+    "id": "m62",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț zboară prin regat."
+  },
+  {
+    "id": "m63",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț caută o comoară."
+  },
+  {
+    "id": "m64",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț se pregătește de petrecere."
+  },
+  {
+    "id": "m65",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț se plimbă prin grădină."
+  },
+  {
+    "id": "m66",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț face magie."
+  },
+  {
+    "id": "m67",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț se ferește de ploaie."
+  },
+  {
+    "id": "m68",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț primește un cadou."
+  },
+  {
+    "id": "m69",
+    "cat": "Mimă",
+    "emoji": "🐸",
+    "label": "broscuță prinț",
+    "task": "Mimează cum broscuță prinț merge la castel."
+  },
+  {
+    "id": "m70",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă dansează la bal."
+  },
+  {
+    "id": "m71",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă se trezește dimineața."
+  },
+  {
+    "id": "m72",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă zboară prin regat."
+  },
+  {
+    "id": "m73",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă caută o comoară."
+  },
+  {
+    "id": "m74",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă se pregătește de petrecere."
+  },
+  {
+    "id": "m75",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă se plimbă prin grădină."
+  },
+  {
+    "id": "m76",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă face magie."
+  },
+  {
+    "id": "m77",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă se ferește de ploaie."
+  },
+  {
+    "id": "m78",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă primește un cadou."
+  },
+  {
+    "id": "m79",
+    "cat": "Mimă",
+    "emoji": "🦢",
+    "label": "lebădă",
+    "task": "Mimează cum lebădă merge la castel."
+  },
+  {
+    "id": "m80",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic dansează la bal."
+  },
+  {
+    "id": "m81",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic se trezește dimineața."
+  },
+  {
+    "id": "m82",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic zboară prin regat."
+  },
+  {
+    "id": "m83",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic caută o comoară."
+  },
+  {
+    "id": "m84",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic se pregătește de petrecere."
+  },
+  {
+    "id": "m85",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic se plimbă prin grădină."
+  },
+  {
+    "id": "m86",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic face magie."
+  },
+  {
+    "id": "m87",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic se ferește de ploaie."
+  },
+  {
+    "id": "m88",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic primește un cadou."
+  },
+  {
+    "id": "m89",
+    "cat": "Mimă",
+    "emoji": "🦋",
+    "label": "fluture magic",
+    "task": "Mimează cum fluture magic merge la castel."
+  },
+  {
+    "id": "m90",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș dansează la bal."
+  },
+  {
+    "id": "m91",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș se trezește dimineața."
+  },
+  {
+    "id": "m92",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș zboară prin regat."
+  },
+  {
+    "id": "m93",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș caută o comoară."
+  },
+  {
+    "id": "m94",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș se pregătește de petrecere."
+  },
+  {
+    "id": "m95",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș se plimbă prin grădină."
+  },
+  {
+    "id": "m96",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș face magie."
+  },
+  {
+    "id": "m97",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș se ferește de ploaie."
+  },
+  {
+    "id": "m98",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș primește un cadou."
+  },
+  {
+    "id": "m99",
+    "cat": "Mimă",
+    "emoji": "🐰",
+    "label": "iepuraș",
+    "task": "Mimează cum iepuraș merge la castel."
+  },
+  {
+    "id": "m100",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț dansează la bal."
+  },
+  {
+    "id": "m101",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț se trezește dimineața."
+  },
+  {
+    "id": "m102",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț zboară prin regat."
+  },
+  {
+    "id": "m103",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț caută o comoară."
+  },
+  {
+    "id": "m104",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț se pregătește de petrecere."
+  },
+  {
+    "id": "m105",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț se plimbă prin grădină."
+  },
+  {
+    "id": "m106",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț face magie."
+  },
+  {
+    "id": "m107",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț se ferește de ploaie."
+  },
+  {
+    "id": "m108",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț primește un cadou."
+  },
+  {
+    "id": "m109",
+    "cat": "Mimă",
+    "emoji": "🐻",
+    "label": "ursuleț",
+    "task": "Mimează cum ursuleț merge la castel."
+  },
+  {
+    "id": "m110",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă dansează la bal."
+  },
+  {
+    "id": "m111",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă se trezește dimineața."
+  },
+  {
+    "id": "m112",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă zboară prin regat."
+  },
+  {
+    "id": "m113",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă caută o comoară."
+  },
+  {
+    "id": "m114",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă se pregătește de petrecere."
+  },
+  {
+    "id": "m115",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă se plimbă prin grădină."
+  },
+  {
+    "id": "m116",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă face magie."
+  },
+  {
+    "id": "m117",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă se ferește de ploaie."
+  },
+  {
+    "id": "m118",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă primește un cadou."
+  },
+  {
+    "id": "m119",
+    "cat": "Mimă",
+    "emoji": "🧜‍♀️",
+    "label": "sirenă",
+    "task": "Mimează cum sirenă merge la castel."
+  },
+  {
+    "id": "m120",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare dansează la bal."
+  },
+  {
+    "id": "m121",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare se trezește dimineața."
+  },
+  {
+    "id": "m122",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare zboară prin regat."
+  },
+  {
+    "id": "m123",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare caută o comoară."
+  },
+  {
+    "id": "m124",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare se pregătește de petrecere."
+  },
+  {
+    "id": "m125",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare se plimbă prin grădină."
+  },
+  {
+    "id": "m126",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare face magie."
+  },
+  {
+    "id": "m127",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare se ferește de ploaie."
+  },
+  {
+    "id": "m128",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare primește un cadou."
+  },
+  {
+    "id": "m129",
+    "cat": "Mimă",
+    "emoji": "🐦",
+    "label": "pasăre cântătoare",
+    "task": "Mimează cum pasăre cântătoare merge la castel."
+  },
+  {
+    "id": "m130",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică dansează la bal."
+  },
+  {
+    "id": "m131",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică se trezește dimineața."
+  },
+  {
+    "id": "m132",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică zboară prin regat."
+  },
+  {
+    "id": "m133",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică caută o comoară."
+  },
+  {
+    "id": "m134",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică se pregătește de petrecere."
+  },
+  {
+    "id": "m135",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică se plimbă prin grădină."
+  },
+  {
+    "id": "m136",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică face magie."
+  },
+  {
+    "id": "m137",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică se ferește de ploaie."
+  },
+  {
+    "id": "m138",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică primește un cadou."
+  },
+  {
+    "id": "m139",
+    "cat": "Mimă",
+    "emoji": "🌷",
+    "label": "floare magică",
+    "task": "Mimează cum floare magică merge la castel."
+  },
+  {
+    "id": "m140",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel dansează la bal."
+  },
+  {
+    "id": "m141",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel se trezește dimineața."
+  },
+  {
+    "id": "m142",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel zboară prin regat."
+  },
+  {
+    "id": "m143",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel caută o comoară."
+  },
+  {
+    "id": "m144",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel se pregătește de petrecere."
+  },
+  {
+    "id": "m145",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel se plimbă prin grădină."
+  },
+  {
+    "id": "m146",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel face magie."
+  },
+  {
+    "id": "m147",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel se ferește de ploaie."
+  },
+  {
+    "id": "m148",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel primește un cadou."
+  },
+  {
+    "id": "m149",
+    "cat": "Mimă",
+    "emoji": "🏰",
+    "label": "castel",
+    "task": "Mimează cum castel merge la castel."
+  },
+  {
+    "id": "m150",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană dansează la bal."
+  },
+  {
+    "id": "m151",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană se trezește dimineața."
+  },
+  {
+    "id": "m152",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană zboară prin regat."
+  },
+  {
+    "id": "m153",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană caută o comoară."
+  },
+  {
+    "id": "m154",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană se pregătește de petrecere."
+  },
+  {
+    "id": "m155",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană se plimbă prin grădină."
+  },
+  {
+    "id": "m156",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană face magie."
+  },
+  {
+    "id": "m157",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană se ferește de ploaie."
+  },
+  {
+    "id": "m158",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană primește un cadou."
+  },
+  {
+    "id": "m159",
+    "cat": "Mimă",
+    "emoji": "👑",
+    "label": "coroană",
+    "task": "Mimează cum coroană merge la castel."
+  },
+  {
+    "id": "m160",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică dansează la bal."
+  },
+  {
+    "id": "m161",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică se trezește dimineața."
+  },
+  {
+    "id": "m162",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică zboară prin regat."
+  },
+  {
+    "id": "m163",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică caută o comoară."
+  },
+  {
+    "id": "m164",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică se pregătește de petrecere."
+  },
+  {
+    "id": "m165",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică se plimbă prin grădină."
+  },
+  {
+    "id": "m166",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică face magie."
+  },
+  {
+    "id": "m167",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică se ferește de ploaie."
+  },
+  {
+    "id": "m168",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică primește un cadou."
+  },
+  {
+    "id": "m169",
+    "cat": "Mimă",
+    "emoji": "🪄",
+    "label": "baghetă magică",
+    "task": "Mimează cum baghetă magică merge la castel."
+  },
+  {
+    "id": "m170",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel dansează la bal."
+  },
+  {
+    "id": "m171",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel se trezește dimineața."
+  },
+  {
+    "id": "m172",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel zboară prin regat."
+  },
+  {
+    "id": "m173",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel caută o comoară."
+  },
+  {
+    "id": "m174",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel se pregătește de petrecere."
+  },
+  {
+    "id": "m175",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel se plimbă prin grădină."
+  },
+  {
+    "id": "m176",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel face magie."
+  },
+  {
+    "id": "m177",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel se ferește de ploaie."
+  },
+  {
+    "id": "m178",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel primește un cadou."
+  },
+  {
+    "id": "m179",
+    "cat": "Mimă",
+    "emoji": "🎠",
+    "label": "carusel",
+    "task": "Mimează cum carusel merge la castel."
+  },
+  {
+    "id": "m180",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă dansează la bal."
+  },
+  {
+    "id": "m181",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă se trezește dimineața."
+  },
+  {
+    "id": "m182",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă zboară prin regat."
+  },
+  {
+    "id": "m183",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă caută o comoară."
+  },
+  {
+    "id": "m184",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă se pregătește de petrecere."
+  },
+  {
+    "id": "m185",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă se plimbă prin grădină."
+  },
+  {
+    "id": "m186",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă face magie."
+  },
+  {
+    "id": "m187",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă se ferește de ploaie."
+  },
+  {
+    "id": "m188",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă primește un cadou."
+  },
+  {
+    "id": "m189",
+    "cat": "Mimă",
+    "emoji": "🚂",
+    "label": "caleașcă",
+    "task": "Mimează cum caleașcă merge la castel."
+  },
+  {
+    "id": "m190",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant dansează la bal."
+  },
+  {
+    "id": "m191",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant se trezește dimineața."
+  },
+  {
+    "id": "m192",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant zboară prin regat."
+  },
+  {
+    "id": "m193",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant caută o comoară."
+  },
+  {
+    "id": "m194",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant se pregătește de petrecere."
+  },
+  {
+    "id": "m195",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant se plimbă prin grădină."
+  },
+  {
+    "id": "m196",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant face magie."
+  },
+  {
+    "id": "m197",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant se ferește de ploaie."
+  },
+  {
+    "id": "m198",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant primește un cadou."
+  },
+  {
+    "id": "m199",
+    "cat": "Mimă",
+    "emoji": "💎",
+    "label": "diamant",
+    "task": "Mimează cum diamant merge la castel."
+  },
+  {
+    "id": "q0",
+    "cat": "Întrebare",
+    "emoji": "👸",
+    "task": "Cine locuiește într-un castel și poate purta coroană?",
+    "answer": "O prințesă sau un rege."
+  },
+  {
+    "id": "q1",
+    "cat": "Întrebare",
+    "emoji": "👑",
+    "task": "Ce poartă o prințesă pe cap la bal?",
+    "answer": "O coroană."
+  },
+  {
+    "id": "q2",
+    "cat": "Întrebare",
+    "emoji": "🦄",
+    "task": "Ce animal fermecat are un corn în frunte?",
+    "answer": "Un unicorn."
+  },
+  {
+    "id": "q3",
+    "cat": "Întrebare",
+    "emoji": "🧚",
+    "task": "Cum se numește ființa magică mică, cu aripi?",
+    "answer": "O zână."
+  },
+  {
+    "id": "q4",
+    "cat": "Întrebare",
+    "emoji": "🏰",
+    "task": "Cum se numește casa mare a regelui și reginei?",
+    "answer": "Un castel."
+  },
+  {
+    "id": "q5",
+    "cat": "Întrebare",
+    "emoji": "🌈",
+    "task": "Ce apare uneori pe cer după ploaie, în multe culori?",
+    "answer": "Curcubeul."
+  },
+  {
+    "id": "q6",
+    "cat": "Întrebare",
+    "emoji": "🌙",
+    "task": "Ce vedem pe cer noaptea?",
+    "answer": "Luna și stelele."
+  },
+  {
+    "id": "q7",
+    "cat": "Întrebare",
+    "emoji": "☀️",
+    "task": "Ce ne încălzește și luminează ziua?",
+    "answer": "Soarele."
+  },
+  {
+    "id": "q8",
+    "cat": "Întrebare",
+    "emoji": "🌷",
+    "task": "Ce crește în grădină și are petale?",
+    "answer": "O floare."
+  },
+  {
+    "id": "q9",
+    "cat": "Întrebare",
+    "emoji": "🦋",
+    "task": "Ce insectă colorată zboară din floare în floare?",
+    "answer": "Fluturele."
+  },
+  {
+    "id": "q10",
+    "cat": "Întrebare",
+    "emoji": "🐸",
+    "task": "Ce animal verde sare și orăcăie?",
+    "answer": "Broasca."
+  },
+  {
+    "id": "q11",
+    "cat": "Întrebare",
+    "emoji": "🐰",
+    "task": "Ce animal are urechi lungi și sare?",
+    "answer": "Iepurele."
+  },
+  {
+    "id": "q12",
+    "cat": "Întrebare",
+    "emoji": "🐈",
+    "task": "Ce animal spune «miau»?",
+    "answer": "Pisica."
+  },
+  {
+    "id": "q13",
+    "cat": "Întrebare",
+    "emoji": "🐶",
+    "task": "Ce animal spune «ham-ham»?",
+    "answer": "Câinele."
+  },
+  {
+    "id": "q14",
+    "cat": "Întrebare",
+    "emoji": "🐴",
+    "task": "Ce animal nechează și poate trage o trăsură?",
+    "answer": "Calul."
+  },
+  {
+    "id": "q15",
+    "cat": "Întrebare",
+    "emoji": "🦢",
+    "task": "Ce pasăre albă înoată pe lac?",
+    "answer": "Lebăda."
+  },
+  {
+    "id": "q16",
+    "cat": "Întrebare",
+    "emoji": "🐝",
+    "task": "Ce insectă face miere?",
+    "answer": "Albina."
+  },
+  {
+    "id": "q17",
+    "cat": "Întrebare",
+    "emoji": "🐻",
+    "task": "Ce animal mare iubește mierea în povești?",
+    "answer": "Ursul."
+  },
+  {
+    "id": "q18",
+    "cat": "Întrebare",
+    "emoji": "🐬",
+    "task": "Ce animal marin sare din apă și este jucăuș?",
+    "answer": "Delfinul."
+  },
+  {
+    "id": "q19",
+    "cat": "Întrebare",
+    "emoji": "🐟",
+    "task": "Unde trăiește peștele?",
+    "answer": "În apă."
+  },
+  {
+    "id": "q20",
+    "cat": "Întrebare",
+    "emoji": "🍎",
+    "task": "Ce fruct poate fi roșu sau verde și crește în pom?",
+    "answer": "Mărul."
+  },
+  {
+    "id": "q21",
+    "cat": "Întrebare",
+    "emoji": "🍓",
+    "task": "Ce fruct mic și roșu are semințe la exterior?",
+    "answer": "Căpșuna."
+  },
+  {
+    "id": "q22",
+    "cat": "Întrebare",
+    "emoji": "🍌",
+    "task": "Ce fruct galben se decojește?",
+    "answer": "Banana."
+  },
+  {
+    "id": "q23",
+    "cat": "Întrebare",
+    "emoji": "🍉",
+    "task": "Ce fruct mare are coajă verde și miez roșu?",
+    "answer": "Pepenele."
+  },
+  {
+    "id": "q24",
+    "cat": "Întrebare",
+    "emoji": "🍋",
+    "task": "Ce fruct galben are gust acrișor?",
+    "answer": "Lămâia."
+  },
+  {
+    "id": "q25",
+    "cat": "Întrebare",
+    "emoji": "🍰",
+    "task": "Ce desert mâncăm adesea la aniversări?",
+    "answer": "Tortul."
+  },
+  {
+    "id": "q26",
+    "cat": "Întrebare",
+    "emoji": "🍦",
+    "task": "Ce desert rece se topește la căldură?",
+    "answer": "Înghețata."
+  },
+  {
+    "id": "q27",
+    "cat": "Întrebare",
+    "emoji": "🥕",
+    "task": "Ce legumă portocalie mănâncă iepurașii?",
+    "answer": "Morcovul."
+  },
+  {
+    "id": "q28",
+    "cat": "Întrebare",
+    "emoji": "🥛",
+    "task": "Ce băutură albă ne poate da vaca?",
+    "answer": "Laptele."
+  },
+  {
+    "id": "q29",
+    "cat": "Întrebare",
+    "emoji": "🍯",
+    "task": "Ce aliment dulce fac albinele?",
+    "answer": "Mierea."
+  },
+  {
+    "id": "q30",
+    "cat": "Întrebare",
+    "emoji": "🚂",
+    "task": "Cu ce călătorim pe șine?",
+    "answer": "Cu trenul."
+  },
+  {
+    "id": "q31",
+    "cat": "Întrebare",
+    "emoji": "🚗",
+    "task": "Cu ce mergem pe șosea?",
+    "answer": "Cu mașina."
+  },
+  {
+    "id": "q32",
+    "cat": "Întrebare",
+    "emoji": "🚲",
+    "task": "Câte roți are o bicicletă obișnuită?",
+    "answer": "Două."
+  },
+  {
+    "id": "q33",
+    "cat": "Întrebare",
+    "emoji": "🚁",
+    "task": "Ce vehicul zboară cu elice?",
+    "answer": "Elicopterul."
+  },
+  {
+    "id": "q34",
+    "cat": "Întrebare",
+    "emoji": "🚢",
+    "task": "Ce vehicul mare plutește pe apă?",
+    "answer": "Vaporul."
+  },
+  {
+    "id": "q35",
+    "cat": "Întrebare",
+    "emoji": "✈️",
+    "task": "Ce vehicul zboară printre nori?",
+    "answer": "Avionul."
+  },
+  {
+    "id": "q36",
+    "cat": "Întrebare",
+    "emoji": "🚒",
+    "task": "Cine vine cu mașina roșie să stingă focul?",
+    "answer": "Pompierul."
+  },
+  {
+    "id": "q37",
+    "cat": "Întrebare",
+    "emoji": "🚑",
+    "task": "Cu ce vehicul sunt transportați oamenii la spital în urgență?",
+    "answer": "Ambulanța."
+  },
+  {
+    "id": "q38",
+    "cat": "Întrebare",
+    "emoji": "🚦",
+    "task": "Ce culoare a semaforului înseamnă stop?",
+    "answer": "Roșu."
+  },
+  {
+    "id": "q39",
+    "cat": "Întrebare",
+    "emoji": "☂️",
+    "task": "Cu ce ne protejăm de ploaie?",
+    "answer": "Cu umbrela."
+  },
+  {
+    "id": "q40",
+    "cat": "Întrebare",
+    "emoji": "❄️",
+    "task": "Ce anotimp aduce zăpadă și frig?",
+    "answer": "Iarna."
+  },
+  {
+    "id": "q41",
+    "cat": "Întrebare",
+    "emoji": "🌸",
+    "task": "Ce anotimp vine după iarnă?",
+    "answer": "Primăvara."
+  },
+  {
+    "id": "q42",
+    "cat": "Întrebare",
+    "emoji": "🏖️",
+    "task": "Unde construim castele de nisip?",
+    "answer": "La plajă."
+  },
+  {
+    "id": "q43",
+    "cat": "Întrebare",
+    "emoji": "⛄",
+    "task": "Din ce facem un om de zăpadă?",
+    "answer": "Din zăpadă."
+  },
+  {
+    "id": "q44",
+    "cat": "Întrebare",
+    "emoji": "🔥",
+    "task": "Ce ne încălzește și poate arde?",
+    "answer": "Focul."
+  },
+  {
+    "id": "q45",
+    "cat": "Întrebare",
+    "emoji": "🧊",
+    "task": "Ce se întâmplă cu gheața când se încălzește?",
+    "answer": "Se topește."
+  },
+  {
+    "id": "q46",
+    "cat": "Întrebare",
+    "emoji": "🪥",
+    "task": "Cu ce ne spălăm pe dinți?",
+    "answer": "Cu periuța de dinți."
+  },
+  {
+    "id": "q47",
+    "cat": "Întrebare",
+    "emoji": "🧼",
+    "task": "Cu ce ne spălăm mâinile?",
+    "answer": "Cu săpun."
+  },
+  {
+    "id": "q48",
+    "cat": "Întrebare",
+    "emoji": "👀",
+    "task": "Cu ce organ vedem?",
+    "answer": "Cu ochii."
+  },
+  {
+    "id": "q49",
+    "cat": "Întrebare",
+    "emoji": "👂",
+    "task": "Cu ce organ auzim?",
+    "answer": "Cu urechile."
+  },
+  {
+    "id": "q50",
+    "cat": "Întrebare",
+    "emoji": "👃",
+    "task": "Cu ce organ mirosim florile?",
+    "answer": "Cu nasul."
+  },
+  {
+    "id": "q51",
+    "cat": "Întrebare",
+    "emoji": "👅",
+    "task": "Cu ce simțim gustul mâncării?",
+    "answer": "Cu limba."
+  },
+  {
+    "id": "q52",
+    "cat": "Întrebare",
+    "emoji": "🖐️",
+    "task": "Câte degete avem la o mână?",
+    "answer": "Cinci."
+  },
+  {
+    "id": "q53",
+    "cat": "Întrebare",
+    "emoji": "🦷",
+    "task": "Cu ce mestecăm mâncarea?",
+    "answer": "Cu dinții."
+  },
+  {
+    "id": "q54",
+    "cat": "Întrebare",
+    "emoji": "❤️",
+    "task": "Ce organ bate în piept?",
+    "answer": "Inima."
+  },
+  {
+    "id": "q55",
+    "cat": "Întrebare",
+    "emoji": "🦶",
+    "task": "Cu ce mergem și alergăm?",
+    "answer": "Cu picioarele."
+  },
+  {
+    "id": "q56",
+    "cat": "Întrebare",
+    "emoji": "🧠",
+    "task": "Ce organ ne ajută să gândim?",
+    "answer": "Creierul."
+  },
+  {
+    "id": "q57",
+    "cat": "Întrebare",
+    "emoji": "🐘",
+    "task": "Ce animal are trompă lungă?",
+    "answer": "Elefantul."
+  },
+  {
+    "id": "q58",
+    "cat": "Întrebare",
+    "emoji": "🦒",
+    "task": "Ce animal are gâtul foarte lung?",
+    "answer": "Girafa."
+  },
+  {
+    "id": "q59",
+    "cat": "Întrebare",
+    "emoji": "🦓",
+    "task": "Ce animal are dungi albe și negre?",
+    "answer": "Zebra."
+  },
+  {
+    "id": "q60",
+    "cat": "Întrebare",
+    "emoji": "🦁",
+    "task": "Cine este numit regele animalelor?",
+    "answer": "Leul."
+  },
+  {
+    "id": "q61",
+    "cat": "Întrebare",
+    "emoji": "🐧",
+    "task": "Ce pasăre merge legănat și trăiește în locuri reci?",
+    "answer": "Pinguinul."
+  },
+  {
+    "id": "q62",
+    "cat": "Întrebare",
+    "emoji": "🦉",
+    "task": "Ce pasăre este trează mai ales noaptea?",
+    "answer": "Bufnița."
+  },
+  {
+    "id": "q63",
+    "cat": "Întrebare",
+    "emoji": "🐢",
+    "task": "Ce animal își poartă carapacea în spate?",
+    "answer": "Țestoasa."
+  },
+  {
+    "id": "q64",
+    "cat": "Întrebare",
+    "emoji": "🐌",
+    "task": "Ce animal merge încet și are cochilie?",
+    "answer": "Melcul."
+  },
+  {
+    "id": "q65",
+    "cat": "Întrebare",
+    "emoji": "🐍",
+    "task": "Ce animal se târăște și nu are picioare?",
+    "answer": "Șarpele."
+  },
+  {
+    "id": "q66",
+    "cat": "Întrebare",
+    "emoji": "🐔",
+    "task": "Ce pasăre face ouă și cotcodăcește?",
+    "answer": "Găina."
+  },
+  {
+    "id": "q67",
+    "cat": "Întrebare",
+    "emoji": "🐑",
+    "task": "Ce animal ne dă lână?",
+    "answer": "Oaia."
+  },
+  {
+    "id": "q68",
+    "cat": "Întrebare",
+    "emoji": "🐄",
+    "task": "Cum face vaca?",
+    "answer": "Muuu."
+  },
+  {
+    "id": "q69",
+    "cat": "Întrebare",
+    "emoji": "🐷",
+    "task": "Cum face porcul?",
+    "answer": "Guiț-guiț."
+  },
+  {
+    "id": "q70",
+    "cat": "Întrebare",
+    "emoji": "🐓",
+    "task": "Ce pasăre cântă dimineața?",
+    "answer": "Cocoșul."
+  },
+  {
+    "id": "q71",
+    "cat": "Întrebare",
+    "emoji": "🌍",
+    "task": "Pe ce planetă locuim?",
+    "answer": "Pământul."
+  },
+  {
+    "id": "q72",
+    "cat": "Întrebare",
+    "emoji": "⭐",
+    "task": "Cum se numesc punctele luminoase de pe cer noaptea?",
+    "answer": "Stelele."
+  },
+  {
+    "id": "q73",
+    "cat": "Întrebare",
+    "emoji": "🪐",
+    "task": "Cum se numește planeta cu inele foarte vizibile?",
+    "answer": "Saturn."
+  },
+  {
+    "id": "q74",
+    "cat": "Întrebare",
+    "emoji": "🌊",
+    "task": "Cum se numește apa foarte întinsă și sărată?",
+    "answer": "Marea sau oceanul."
+  },
+  {
+    "id": "q75",
+    "cat": "Întrebare",
+    "emoji": "🌳",
+    "task": "Ce parte a copacului se află în pământ?",
+    "answer": "Rădăcina."
+  },
+  {
+    "id": "q76",
+    "cat": "Întrebare",
+    "emoji": "🍂",
+    "task": "În ce anotimp cad multe frunze?",
+    "answer": "Toamna."
+  },
+  {
+    "id": "q77",
+    "cat": "Întrebare",
+    "emoji": "🌱",
+    "task": "De ce are nevoie o plantă ca să crească?",
+    "answer": "Apă, lumină și pământ."
+  },
+  {
+    "id": "q78",
+    "cat": "Întrebare",
+    "emoji": "⏰",
+    "task": "Cu ce aflăm cât este ceasul?",
+    "answer": "Cu un ceas."
+  },
+  {
+    "id": "q79",
+    "cat": "Întrebare",
+    "emoji": "📚",
+    "task": "Ce folosim ca să citim povești?",
+    "answer": "Cărți."
+  },
+  {
+    "id": "q80",
+    "cat": "Întrebare",
+    "emoji": "✏️",
+    "task": "Cu ce scriem sau desenăm?",
+    "answer": "Cu un creion."
+  },
+  {
+    "id": "q81",
+    "cat": "Întrebare",
+    "emoji": "🎨",
+    "task": "Cu ce putem picta?",
+    "answer": "Cu pensule și culori."
+  },
+  {
+    "id": "q82",
+    "cat": "Întrebare",
+    "emoji": "🎵",
+    "task": "Cu ce organ ascultăm muzica?",
+    "answer": "Cu urechile."
+  },
+  {
+    "id": "q83",
+    "cat": "Întrebare",
+    "emoji": "🎹",
+    "task": "Ce instrument are clape albe și negre?",
+    "answer": "Pianul."
+  },
+  {
+    "id": "q84",
+    "cat": "Întrebare",
+    "emoji": "🥁",
+    "task": "Ce instrument muzical lovim cu bețe sau mâinile?",
+    "answer": "Toba."
+  },
+  {
+    "id": "q85",
+    "cat": "Întrebare",
+    "emoji": "💎",
+    "task": "Ce piatră strălucitoare poate fi într-o comoară?",
+    "answer": "Un diamant."
+  },
+  {
+    "id": "q86",
+    "cat": "Întrebare",
+    "emoji": "🪄",
+    "task": "Cu ce face magie o zână din povești?",
+    "answer": "Cu bagheta magică."
+  },
+  {
+    "id": "q87",
+    "cat": "Întrebare",
+    "emoji": "🎁",
+    "task": "Ce primești la o surpriză frumos împachetată?",
+    "answer": "Un cadou."
+  },
+  {
+    "id": "q88",
+    "cat": "Întrebare",
+    "emoji": "🎂",
+    "task": "Ce punem pe tort la aniversare și suflăm în ele?",
+    "answer": "Lumânări."
+  },
+  {
+    "id": "q89",
+    "cat": "Întrebare",
+    "emoji": "👗",
+    "task": "Ce haină elegantă poate purta o prințesă la bal?",
+    "answer": "O rochie."
+  },
+  {
+    "id": "q90",
+    "cat": "Întrebare",
+    "emoji": "🎈",
+    "task": "Ce obiect umflat cu aer poate pluti în sus?",
+    "answer": "Un balon."
+  },
+  {
+    "id": "q91",
+    "cat": "Întrebare",
+    "emoji": "🐙",
+    "task": "Câte brațe are o caracatiță?",
+    "answer": "Opt."
+  },
+  {
+    "id": "q92",
+    "cat": "Întrebare",
+    "emoji": "🦆",
+    "task": "Cum face rața?",
+    "answer": "Mac-mac."
+  },
+  {
+    "id": "q93",
+    "cat": "Întrebare",
+    "emoji": "🐝",
+    "task": "Câte aripi are o albină?",
+    "answer": "Patru."
+  },
+  {
+    "id": "q94",
+    "cat": "Întrebare",
+    "emoji": "🌻",
+    "task": "Ce floare mare galbenă se întoarce după soare?",
+    "answer": "Floarea-soarelui."
+  },
+  {
+    "id": "q95",
+    "cat": "Întrebare",
+    "emoji": "🧸",
+    "task": "Cu ce jucărie moale ne place să ne îmbrățișăm?",
+    "answer": "Ursulețul de pluș."
+  },
+  {
+    "id": "q96",
+    "cat": "Întrebare",
+    "emoji": "🎀",
+    "task": "Ce legăm uneori în păr sau pe cadouri?",
+    "answer": "O fundă."
+  },
+  {
+    "id": "q97",
+    "cat": "Întrebare",
+    "emoji": "🧁",
+    "task": "Ce prăjiturică mică poate avea cremă deasupra?",
+    "answer": "Brioșa."
+  },
+  {
+    "id": "q98",
+    "cat": "Întrebare",
+    "emoji": "🧜‍♀️",
+    "task": "Ce personaj din povești are coadă de pește?",
+    "answer": "Sirena."
+  },
+  {
+    "id": "q99",
+    "cat": "Întrebare",
+    "emoji": "🛷",
+    "task": "Cu ce alunecăm pe zăpadă?",
+    "answer": "Cu sania."
+  }
+]
